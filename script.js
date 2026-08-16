@@ -1,5 +1,5 @@
 // Substitua o 'SEU_TOKEN_AQUI' pelo seu token real do Mapbox
-mapboxgl.accessToken = 'SEU_TOKEN_AQUI';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VzdGF2b2ZveCIsImEiOiJjbXN3OHB4eGMxY3pyMnlwengwc3FjdTF3In0.nvX28ZVH19xhofPoUtJW-w';
 
 const map = new mapboxgl.Map({
     container: 'map',
